@@ -1,3 +1,6 @@
+# Ticket Management System: Next Steps
+
+This project contains ticket management system built on top of Salesforce CRM using declarative tools, custom objects,Apex and lwc.
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
