@@ -1,4 +1,4 @@
-# Ticket Management System: Next Steps
+# Ticket Management System: About
 
 This project contains ticket management system built on top of Salesforce CRM using declarative tools, custom objects,Apex and lwc.
 # Salesforce DX Project: Next Steps
