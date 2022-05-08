@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g000005L8LCAA0",
+      "createdByName": "Rahul Jha",
+      "createdDate": "2021-03-22T06:14:21.000Z",
+      "fileName": "flows/fetching_and_updating_email.flow",
+      "fullName": "fetching_and_updating_email",
+      "id": "3015g000000tMRsAAM",
+      "lastModifiedById": "0055g000005L8LCAA0",
+      "lastModifiedByName": "Rahul Jha",
+      "lastModifiedDate": "2021-03-22T06:14:31.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    },
+    {
+      "createdById": "0055g000005L8LCAA0",
+      "createdByName": "Rahul Jha",
+      "createdDate": "2021-03-22T10:38:39.000Z",
+      "fileName": "flows/closed_status_mail.flow",
+      "fullName": "closed_status_mail",
+      "id": "3015g000000tMgyAAE",
+      "lastModifiedById": "0055g000005L8LCAA0",
+      "lastModifiedByName": "Rahul Jha",
+      "lastModifiedDate": "2021-03-22T10:38:39.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    },
+    {
+      "createdById": "0055g000005L8LCAA0",
+      "createdByName": "Rahul Jha",
+      "createdDate": "2021-03-22T10:40:15.000Z",
+      "fileName": "flows/Priority_and_Description_email.flow",
+      "fullName": "Priority_and_Description_email",
+      "id": "3015g000000tMhRAAU",
+      "lastModifiedById": "0055g000005L8LCAA0",
+      "lastModifiedByName": "Rahul Jha",
+      "lastModifiedDate": "2021-03-22T10:40:15.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    },
+    {
+      "createdById": "0055g000005LETPAA4",
+      "createdByName": "Dipankar sahoo",
+      "createdDate": "2021-03-22T05:02:19.000Z",
+      "fileName": "flows/fetch_ticket_email_from_formula_field_contact_email.flow",
+      "fullName": "fetch_ticket_email_from_formula_field_contact_email",
+      "id": "3015g000000tMMTAA2",
+      "lastModifiedById": "0055g000005LETPAA4",
+      "lastModifiedByName": "Dipankar sahoo",
+      "lastModifiedDate": "2021-07-30T17:57:16.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    },
+    {
+      "createdById": "0055g000005L8LCAA0",
+      "createdByName": "Rahul Jha",
+      "createdDate": "2021-03-22T06:21:35.000Z",
+      "fileName": "flows/upon_changing_contact_email.flow",
+      "fullName": "upon_changing_contact_email",
+      "id": "3015g000000tMSRAA2",
+      "lastModifiedById": "0055g000005L8LCAA0",
+      "lastModifiedByName": "Rahul Jha",
+      "lastModifiedDate": "2021-03-22T06:21:44.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    }
+  ]
+}

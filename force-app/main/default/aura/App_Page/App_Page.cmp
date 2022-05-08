@@ -1,0 +1,17 @@
+<aura:component implements="lightning:appHomeTemplate"
+   description="Main (left) column and right sidebar. On a phone, the regions (left and right) are of equal width, each 6. On desktop: 30% : 70% that is 4: 8"
+>
+   <aura:attribute name="left" type="Aura.Component[]" />
+  
+
+    <div>
+        <lightning:layout>
+
+            <lightning:layoutItem flexibility="grow" class="slds-m-right_small">
+                {!v.left}
+            </lightning:layoutItem>
+
+        </lightning:layout>
+    </div>
+
+</aura:component>

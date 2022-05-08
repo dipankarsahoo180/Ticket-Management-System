@@ -1,9 +1,0 @@
-<design:component label="Custom One Region App Page">
-    <flexipage:template >
-
-            <flexipage:region name="left" defaultWidth="LARGE">
-                <flexipage:formfactor type="MEDIUM" width="LARGE" />
-            </flexipage:region>
-
-       </flexipage:template>
-</design:component>

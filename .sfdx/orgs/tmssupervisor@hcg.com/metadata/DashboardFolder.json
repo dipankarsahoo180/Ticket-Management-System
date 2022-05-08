@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0055g000005LETPAA4",
+    "createdByName": "Dipankar sahoo",
+    "createdDate": "2021-03-22T11:48:42.000Z",
+    "fileName": "dashboards/PublicFolder",
+    "fullName": "PublicFolder",
+    "id": "00l5g000000E9yMAAS",
+    "lastModifiedById": "0055g000005LETPAA4",
+    "lastModifiedByName": "Dipankar sahoo",
+    "lastModifiedDate": "2021-03-22T11:48:42.000Z",
+    "manageableState": "unmanaged",
+    "type": "DashboardFolder"
+  }
+}

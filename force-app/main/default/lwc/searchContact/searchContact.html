@@ -1,0 +1,41 @@
+<template>
+    <lightning-card title="TMS Contact Search" icon-name="custom:custom63">
+        <div class="slds-var-m-around_medium">
+            <lightning-layout vertical-align="end" class="slds-var-m-bottom_small">
+               
+                <lightning-card>
+                    <div class="slds-m-around_medium">
+                        <lightning-input name="firstName" label="First Name" onchange={handleKeyChange}></lightning-input>
+                        <lightning-input name="lastName" label="Last Name" onchange={handleKeyChange}></lightning-input>
+                        <lightning-input name="email" label="Email" onchange={handleKeyChange}></lightning-input>
+                        <!-- <p class="slds-m-top_medium">
+                       
+                    </p> -->
+                    <br/>
+                    <lightning-button class="slds-float_left" label="Search Contact" onclick={handleSearch}></lightning-button>
+                    </div>
+                </lightning-card>
+                
+                <lightning-layout-item class="slds-clearfix">
+                    &nbsp;&nbsp;
+                   
+                </lightning-layout-item>
+            </lightning-layout>
+            <!-- <template if:true={contacts}> -->
+            <template for:each={contacts} for:item="contact">
+                <li key={contact.Id}>{contact.First_Name__c} : {contact.Last_Name__c} : {contact.Email_Address__c} </li>
+                <!-- <p key={contact.Id}>{contact.Id}</p> -->
+                <!-- </template> -->
+            </template>
+        </div>
+        <!-- <template if:true={error}>
+        <c-error-panel errors={error}></c-error-panel>
+    </template> -->
+        <!-- <c-view-source
+        source="lwc/apexImperativeMethodWithParams"
+        slot="footer"
+    >
+        Call an Apex method with parameters imperatively.
+    </c-view-source> -->
+    </lightning-card>
+</template>

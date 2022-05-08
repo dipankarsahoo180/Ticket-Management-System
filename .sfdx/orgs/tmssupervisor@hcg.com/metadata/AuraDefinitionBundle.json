@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0055g000005L8LCAA0",
+    "createdByName": "Rahul Jha",
+    "createdDate": "2021-03-22T05:56:27.000Z",
+    "fileName": "aura/App_Page",
+    "fullName": "App_Page",
+    "id": "0Ab5g000000BFuqCAG",
+    "lastModifiedById": "0055g000005L8LCAA0",
+    "lastModifiedByName": "Rahul Jha",
+    "lastModifiedDate": "2021-03-22T06:27:09.000Z",
+    "manageableState": "unmanaged",
+    "type": "AuraDefinitionBundle"
+  }
+}
